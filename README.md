@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/sn94/sn94?tab=repositories" >Repositorios</a>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sn94&theme=radical&show_icons=true)
+
