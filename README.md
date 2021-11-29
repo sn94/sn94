@@ -59,7 +59,10 @@ Here are some ideas to get you started:
   <td>
     <img    height="100"  align="center" src="https://programandoweb.net/wp-content/uploads/2019/04/reactjs.png"/>
   </td>
-  <td></td> <td></td>
+  <td>
+  
+     <img    height="100"  align="center" src="https://i1.wp.com/apptractor.ru/wp-content/uploads/2016/09/react-native-logo.jpg?fit=661%2C414&ssl=1"/>
+  </td> <td></td>
  </tr>
 </table>
 
