@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <table>
  <tr>
   <td>
-   <img   height="100"  align="center" src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png"/>
+   <img   height="100"  align="center" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png"/>
   </td>
    <td  >
    <img   height="100"  align="center" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1"/>
