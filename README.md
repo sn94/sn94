@@ -55,6 +55,12 @@ Here are some ideas to get you started:
  </td>
  
  </tr>
+ <tr>
+  <td>
+    <img    height="100"  align="center" src="https://programandoweb.net/wp-content/uploads/2019/04/reactjs.png"/>
+  </td>
+  <td></td> <td></td>
+ </tr>
 </table>
 
 
