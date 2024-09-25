@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <td>
      <img    height="100"  align="center" src="https://i1.wp.com/apptractor.ru/wp-content/uploads/2016/09/react-native-logo.jpg?fit=661%2C414&ssl=1"/>
   </td> 
-  <td></td>
+  <td> <img    height="100"  align="center" src="https://sue.eu/wp-content/uploads/sites/6/2022/07/docker-logo-920x920-sue-v03-400x400.png"/></td>
  </tr>
 </table>
 
