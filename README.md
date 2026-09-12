@@ -1,82 +1,40 @@
- 
+# Hi, I'm Sonia Jazmín Toledo López 👋
 
-<!--
-**sn94/sn94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack & Mobile Developer — PHP/Laravel · React · React Native
 
-Here are some ideas to get you started:
+📍 Paraguay &nbsp;|&nbsp; 📧 soniatoledo294@hotmail.com &nbsp;|&nbsp; 🌐 Portfolio available on request
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web and mobile applications for administrative, commercial, and financial systems —
+from database design and REST APIs to production deployment on Android and iOS.
+I work end-to-end, independently, on projects for direct clients and development agencies.
 
+## 🛠️ Tech Stack
 
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,reactnative,ts,js,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,docker,git,linux,apache" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sn94&theme=radical&show_icons=true)
+**Backend:** PHP · Laravel · CodeIgniter · Livewire · Node.js · REST APIs · JWT / OAuth
+**Frontend:** React · TypeScript / JavaScript · Tailwind CSS · Bootstrap
+**Mobile:** React Native · Expo · Firebase · App Store & Google Play publishing
+**Databases:** MySQL · PostgreSQL · MongoDB · SQLite · SAP HANA
+**DevOps:** Docker · Git/GitHub · Linux · Apache · cPanel
 
+## 📱 Apps I've built & published
 
+| App | Description | Showcase |
+|---|---|---|
+| **RedTitan** | Sports facility booking and match organization (football, padel) | [redtitan-showcase](https://github.com/sn94/redtitan-showcase.git) |
+| **AguaVista** | Facility reservations and utility bill payments | — |
+| **AgroArandu** | Farmland management and marketplace for local producers | [agroarandu-showcase](https://github.com/sn94/agroarandu-showcase.git) |
+| **Klubba** | Organizing sports and recreational activities (running, hiking, cycling) | — |
+| **SurveySoft** | Inspection management for the logistics sector | — |
 
+## 💼 What I've worked on
 
-
-
- 
-<table>
- <tr>
-  <td>
-   <img   height="100"  align="center" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png"/>
-  </td>
-   <td  >
-   <img   height="100"  align="center" src="https://i2.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1"/>
-  </td>
-     <td  >
-   <img   height="100"  align="center" src="https://www.returngis.net/wp-content/uploads/2011/01/JQuery.png"/>
-  </td>
-  
-
- </tr>
-<tr>
- <td>
- <img  height="100"  align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT22vWJIQb9CnNoh7G3c9pYc3sPhsxn0RH5Uw&usqp=CAU"/>
- </td>
- 
- <td>
-  <img    height="100"  align="center" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png"/>
-
- </td>
- 
- <td>
-  <img    height="100"  align="center" src="https://stevendobbelaerebe.files.wordpress.com/2020/01/bfe0c-codeigniter.png?w=1108"/>
-
- </td>
- 
- </tr>
- <tr>
-  <td>
-    <img    height="100"  align="center" src="https://programandoweb.net/wp-content/uploads/2019/04/reactjs.png"/>
-  </td>
-  <td>
-     <img    height="100"  align="center" src="https://i1.wp.com/apptractor.ru/wp-content/uploads/2016/09/react-native-logo.jpg?fit=661%2C414&ssl=1"/>
-  </td> 
-  <td> <img    height="100"  align="center" src="https://sue.eu/wp-content/uploads/sites/6/2022/07/docker-logo-920x920-sue-v03-400x400.png"/></td>
- </tr>
-
-  <tr>
-  <td>
-    <img    height="100"  align="center" src="https://img-b.udemycdn.com/course/750x422/4177716_b06d_3.jpg"/>
-  </td>
-  <td>
-     <img    height="100"  align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/300px-Node.js_logo.svg.png"/>
-  </td> 
-  <td> <img    height="100"  align="center" src="https://php.ar/static/4357a60fa19f5c9e1d39e075d443014f/7d769/livewire-banner.png"/></td>
- </tr>
+- **Financial & administrative systems** — legal case management, multi-company admin platforms, loan/amortization tracking, credit customer management, restaurant inventory & billing, VAT management platforms
+- **Electronic invoicing** — SIFEN API integration
+- **Payment gateways** — Bancard (VPOS & QR), PagoPar
+- **Institutional projects** — collaboration with government IT departments (Identificaciones, DIBEN)
 
  
-</table>
 
-
-
+🗣️ Español (native) · Guaraní (native) · English (intermediate)
