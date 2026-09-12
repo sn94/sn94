@@ -18,6 +18,12 @@ I work end-to-end, independently, on projects for direct clients and development
 **Databases:** MySQL · PostgreSQL · MongoDB · SQLite · SAP HANA
 **DevOps:** Docker · Git/GitHub · Linux · Apache · cPanel
 
+## 🔌 API Integrations
+
+- **Electronic invoicing** — SIFEN API integration
+- **Payment gateways** — Bancard (VPOS & QR), PagoPar
+
+<!--
 ## 📱 Apps I've built & published
 
 | App | Description | Showcase |
@@ -34,6 +40,7 @@ I work end-to-end, independently, on projects for direct clients and development
 - **Electronic invoicing** — SIFEN API integration
 - **Payment gateways** — Bancard (VPOS & QR), PagoPar
 - **Institutional projects** — collaboration with government IT departments (Identificaciones, DIBEN)
+-->
 
  
 
